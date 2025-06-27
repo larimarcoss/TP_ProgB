@@ -1,4 +1,4 @@
-package monitoring.device;
++package monitoring.device;
 
 public class Location {
 
