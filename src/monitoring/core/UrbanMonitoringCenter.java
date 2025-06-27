@@ -1,4 +1,4 @@
-package monitoring;
+package monitoring.core;
 
 public class UrbanMonitoringCenter {
 
