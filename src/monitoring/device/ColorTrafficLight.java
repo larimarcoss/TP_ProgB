@@ -1,4 +1,4 @@
-package model;
+package monitoring.device;
 
 public enum ColorTrafficLight {
     RED,
